@@ -1,10 +1,10 @@
-# Cache
+# Clients
 
 IMDB Clients.
 
 ## Requirements
 
-- PHP 7.4+
+- PHP 8.3+
 - Composer 2.x
 
 ## Installation
