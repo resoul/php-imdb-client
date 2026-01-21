@@ -1,6 +1,6 @@
 # Clients
 
-IMDB Clients.
+IMDB Clients
 
 ## Requirements
 

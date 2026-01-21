@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace Resoul\IMDB\Client;
 
-class WeekendClient
+class WeekendClient implements ClientInterface
 {
     private const string WEEKEND_PATH = 'weekend/%s/';
 

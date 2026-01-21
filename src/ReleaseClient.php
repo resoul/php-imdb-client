@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace Resoul\IMDB\Client;
 
-class ReleaseClient
+class ReleaseClient implements ClientInterface
 {
     private const string RELEASE_PATH = 'release/%s/weekend/';
 

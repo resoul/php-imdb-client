@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace Resoul\IMDB\Client;
 
-class TitleClient
+class TitleClient implements ClientInterface
 {
     private const string
         TITLE_PATH = 'title/%s/',

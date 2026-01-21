@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace Resoul\IMDB\Client;
 
-class NameClient
+class NameClient implements ClientInterface
 {
     private const string
         NAME_PATH = 'name/%s/',

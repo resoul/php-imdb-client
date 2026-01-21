@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace Resoul\IMDB\Client;
 
-class GenreClient
+class GenreClient implements ClientInterface
 {
     private const string INTEREST_PATH = 'interest/all/';
 

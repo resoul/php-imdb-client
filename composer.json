@@ -1,6 +1,6 @@
 {
   "name": "resoul/php-imdb-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "IMDB Clients",
   "type": "library",
   "license": "MIT",
