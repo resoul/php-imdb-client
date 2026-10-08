@@ -1,7 +1,4 @@
-# Clients
-
-IMDB Clients
-
+# IMDB Clients
 ## Requirements
 
 - PHP 8.3+
